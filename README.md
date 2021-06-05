@@ -1,5 +1,4 @@
-# csp
-New Install CSP
+
 ############################Tutorial para Instalação da CSP######################### 
     apt-get update
     apt-get install python-software-properties software-properties-common
