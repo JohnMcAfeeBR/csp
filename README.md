@@ -1,1 +1,3 @@
 New Install CSP
+GRANT ALL ON *.* TO root@’%’ IDENTIFIED By ‘mcnnet123’;
+FLUSH PRIVILEGES;
